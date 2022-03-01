@@ -1,0 +1,837 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Cupids posies, for bracelets, handkercers, and rings, with scarfes, gloves and other things.  Written by Cupid on a day, when Venus gave me leave to play, verbum sat amanti.  The lover sheweth his intent, by gifts that are with posies sent.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1674</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08881</idno>
+            <idno type="STC">Wing C7609</idno>
+            <idno type="STC">ESTC R171657</idno>
+            <idno type="EEBO-CITATION">64551146</idno>
+            <idno type="OCLC">ocm 64551146</idno>
+            <idno type="VID">184505</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08881)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184505)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2866:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Cupids posies, for bracelets, handkercers, and rings, with scarfes, gloves and other things.  Written by Cupid on a day, when Venus gave me leave to play, verbum sat amanti.  The lover sheweth his intent, by gifts that are with posies sent.</title>
+               </titleStmt>
+               <extent>[22] p., [2] leaves of plates : ill. (woodcuts)  </extent>
+               <publicationStmt>
+                  <publisher>Printed by E. C. for J. Wright, next to the Globe in Little-Britian,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1674.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Epigrams --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:184505:1" rendition="simple:additions"/>
+            <p>CUPIDS POSIES,</p>
+            <lg>
+               <l>For Bracelets, Handkercers, and Rings,</l>
+               <l>With Scarfes, Gloves, and other things.</l>
+               <l>Written by <hi>Cupid</hi> on a day,</l>
+               <l>When <hi>Venus</hi> gave me leave to play,</l>
+               <l>
+                  <hi>Verbum ſat amanti.</hi>
+               </l>
+               <l>The Lover ſheweth his intent,</l>
+               <l>By Gifts that are with poſies ſent.</l>
+            </lg>
+            <figure>
+               <figDesc>Cupid draws his bow</figDesc>
+            </figure>
+            <p>
+               <hi>London,</hi> Printed by <hi>E. C.</hi> for <hi>J. Wright,</hi> next to the <hi>Globe</hi> in <hi>Little-Brittain,</hi> 1674.</p>
+            <pb facs="tcp:184505:2"/>
+            <pb facs="tcp:184505:3"/>
+            <pb facs="tcp:184505:3" rendition="simple:additions"/>
+            <pb facs="tcp:184505:4" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:184505:4" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:184505:5"/>
+            <pb facs="tcp:184505:5"/>
+            <head>To his Mother <hi>VENUS. Cupid</hi> Dedicateth his Poſies.</head>
+            <l>MOther your Love to me was ſhown</l>
+            <l>Before that I could go alone,</l>
+            <l>For with <hi>Nectar</hi> then you fed me,</l>
+            <l>And in tender manner bred me:</l>
+            <l>Till perceiving once that I</l>
+            <l>Was able on my wings to flie;</l>
+            <l>I did deſcend unto the Earth,</l>
+            <l>With my Bow to make ſome mirth:</l>
+            <l>For all the World is my park,</l>
+            <l>Where when I ſhoot I hit the Mark;</l>
+            <l>Young Men and Maidens are my Game,</l>
+            <l>While I the little Bowman am;</l>
+            <l>Yet leſt you may think my leaſure</l>
+            <l>
+               <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> do only waſte in pleaſure:</l>
+            <l>Theſe Poſies I have writ of late,</l>
+            <l>Which to you I dedicate:</l>
+            <l>That ſo the love may be expreſt,</l>
+            <l>Of your ſon that loves you beſt.</l>
+         </div>
+         <div type="frontispiece">
+            <pb facs="tcp:184505:6"/>
+            <p>
+               <figure>
+                  <figDesc>a lady holding a vase of flowers and foliage</figDesc>
+               </figure>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="poems">
+            <pb facs="tcp:184505:6"/>
+            <head>CUPIDS Poſies</head>
+            <lg>
+               <l>
+                  <hi>I</hi> That <hi>Cupid</hi> called am,</l>
+               <l>And ſhall never be a Man;</l>
+               <l>But am ſtill the blinded Boy,</l>
+               <l>That bréeds Lovers much anoy:</l>
+               <l>Having gotten on a day,</l>
+               <l>From my Mother, leave to play,</l>
+               <l>And obtained uſe of ſight,</l>
+               <l>
+                  <hi>I</hi> in wantonneſe did write,</l>
+               <l>Theſe ſame Poſies which <hi>I</hi> ſend,</l>
+               <l>And to Lovers do commend;</l>
+               <l>Which if they be writ, within</l>
+               <l>The little circle of a Ring,</l>
+               <l>Or be ſent unto your Loves</l>
+               <l>With fiue Handkerchers Gloves:</l>
+               <l>
+                  <hi>I</hi> do know that like my Dart,</l>
+               <l>They have power to wound the heart:</l>
+               <l>For inſtead of Flowers and Roſes,</l>
+               <l>Here are words bound up in Poſies.</l>
+            </lg>
+            <lg n="1">
+               <head>1. A poſie written on a pair Bracelets and ſent by a young Man to his Love</head>
+               <l>My Love, theſe Braclets take,</l>
+               <l>and think of them no harm:</l>
+               <pb facs="tcp:184505:7"/>
+               <l>But ſince they Bracelets be,</l>
+               <l>let them imbrace thy arm.</l>
+            </lg>
+            <lg n="2">
+               <head>2. Another.</head>
+               <l>Receive this Sacrifice in part,</l>
+               <l>From the Altar of my heart.</l>
+            </lg>
+            <lg n="3">
+               <head>3.</head>
+               <l>I do owe both love and duty,</l>
+               <l>To your vertue and your beauty.</l>
+            </lg>
+            <lg n="4">
+               <head>4. A poſie ſent with a pair of Gloves.</head>
+               <l>You are that one</l>
+               <l>For whom alone,</l>
+               <l>my heart doth only care:</l>
+               <l>Then do but joyn</l>
+               <l>Your heart with mine,</l>
+               <l>and we will make a pair.</l>
+            </lg>
+            <lg n="5">
+               <head>5. Another.</head>
+               <l>I ſend to you a pair of Gloves,</l>
+               <l>If you love me</l>
+               <l>Leave out the G.</l>
+               <l>And make a pair of Loves.</l>
+            </lg>
+            <lg n="6">
+               <head>6. Another.</head>
+               <l>Though theſe Gloves be white and fair,</l>
+               <l>Yet thy hands more whiter are.</l>
+            </lg>
+            <lg n="7">
+               <head>7. Another.</head>
+               <l>Theſe Gloves are happy</l>
+               <l>That kiſs your hands,</l>
+               <pb facs="tcp:184505:7"/>
+               <l>Which long have held my heart</l>
+               <l>in <hi>Cupids</hi> bands.</l>
+            </lg>
+            <lg n="8">
+               <head>8. The poſie of a Lover to his diſdaining Miſtreſs.</head>
+               <l>
+                  <hi>Vt Stella in tenebris,</hi>
+               </l>
+               <l>
+                  <hi>Sic Amor in adverſis.</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>Engliſhed.</head>
+               <l>As the Stars in darkeſt night</l>
+               <l>So love deſpiſed ſhining.</l>
+            </lg>
+            <lg n="9">
+               <head>9. The poſie of a handkercher ſent from a young man to his Love being wrought in blew ſilk.</head>
+               <l>This handkercher to you aſſures,</l>
+               <l>That this and what I have is yours.</l>
+            </lg>
+            <lg n="10">
+               <head>10. Another.</head>
+               <l>Love is like a hidden flame,</l>
+               <l>Which will at laſt</l>
+               <l>blaze forth again.</l>
+            </lg>
+            <lg n="11">
+               <head>11. Another in Letters.</head>
+               <l>My love is true which IOV,</l>
+               <l>Is true to me then CVB.</l>
+            </lg>
+            <lg n="12">
+               <head>12. The poſie of a Ring ſent to a Maid from her Lover.</head>
+               <l>My conſtant Love, ſhall ne're remove.</l>
+            </lg>
+            <lg n="13">
+               <pb facs="tcp:184505:8"/>
+               <head>13. Another.</head>
+               <l>This and <hi>I,</hi> untill <hi>I</hi> die.</l>
+            </lg>
+            <lg n="14">
+               <head>14.</head>
+               <l>
+                  <hi>Memento mei.</hi>
+               </l>
+               <l>When this you ſée,</l>
+               <l>Remember me.</l>
+            </lg>
+            <lg n="15">
+               <head>15.</head>
+               <l>Like to a cirrle round, no end in love is found</l>
+               <l>Take me with it, for both are fit,</l>
+            </lg>
+            <lg n="16">
+               <head>16. A young mans conceit to his dear Love, be<g ref="char:EOLhyphen"/>ing wrought upon a ſcarf.</head>
+               <l>This Scarf is but</l>
+               <l>an embleme of my love</l>
+               <l>Which I have ſent with full intent,</l>
+               <l>my ſervice to approve.</l>
+            </lg>
+            <lg n="17">
+               <head>17, Another wherein the Lover ſeeketh her Love.</head>
+               <l>One was the Bow one was the Dart,</l>
+               <l>That wounded us both to the heart:</l>
+               <l>Then ſince we both do féel one pain,</l>
+               <l>Let one love cure us both again.</l>
+            </lg>
+            <lg n="18">
+               <head>18. A young mans poſie to his Sweet heart ſhewing that Love is moſt violent in abſence.</head>
+               <l>Love is a flame that with</l>
+               <l>a violent deſire,</l>
+               <pb facs="tcp:184505:8"/>
+               <l>Doth burn us moſt when, we</l>
+               <l>are fartheſt from the fire.</l>
+            </lg>
+            <lg n="19">
+               <head>19.</head>
+               <l>As thoſe that die</l>
+               <l>are ſaid for to depart:</l>
+               <l>So when you went a way,</l>
+               <l>all life forſook my heart:</l>
+               <l>For though with inward pain</l>
+               <l>I draw my very breath,</l>
+               <l>Yet this I will maintain</l>
+               <l>departure is a Death.</l>
+            </lg>
+            <lg n="20">
+               <head>20. A Lover coming into a Maidens chamber in her abſence did write this poſie on her looking-glaſs.</head>
+               <l>In this ſame Looking-glaſs,</l>
+               <l>my watry eyes <hi>I</hi> ſée:</l>
+               <l>But <hi>I</hi> do wiſh that thou coulds ſhew</l>
+               <l>her chéerful eyes to me:</l>
+               <l>Yet why do <hi>I</hi> accuſe thée here.</l>
+               <l>tis not thy fault for thou art cléer.</l>
+            </lg>
+            <lg n="21">
+               <head>21. poſies of Rings for young Lovers which have newly diſcovered their affection.</head>
+               <l>Let me ſerve till <hi>I</hi> deſire.</l>
+            </lg>
+            <lg n="22">
+               <pb facs="tcp:184505:9"/>
+               <head>22. Another.</head>
+               <l>Had I not ſpoke, my heart had broke:</l>
+               <l>The utmoſt ſcope of love is hope:</l>
+            </lg>
+            <lg n="23">
+               <head>23.</head>
+               <l>Loves delight, is to unite,</l>
+               <l>I now do ſue, for love to you.</l>
+            </lg>
+            <lg n="24">
+               <head>24.</head>
+               <l>Love <hi>I</hi> have, yet Love <hi>I</hi> crave.</l>
+            </lg>
+            <lg n="25">
+               <head>25. A poſie of a young Prentiſe ſent to his Love with a pair of Amber Bracelets.</head>
+               <l>Let theſe ſame bind</l>
+               <l>You to be kind</l>
+               <l>unto me for Loves own ſake,</l>
+               <l>And when we méet</l>
+               <l>With kiſſes ſwoot,</l>
+               <l>we will Indentures make:</l>
+               <l>And I will bind my ſelf to be,</l>
+               <l>In love a Prentice unto thée.</l>
+            </lg>
+            <lg n="26">
+               <head>26. A Lovers ſhort poſie in the praiſe of his Miſtriſs.</head>
+               <l>You have <hi>Venus</hi> lip and eye,</l>
+               <l>With <hi>Diana's</hi> Chaſtity,</l>
+               <l>In thoſe parts which are revealed</l>
+               <l>
+                  <hi>Venus</hi> beauty is expreſt;</l>
+               <l>Yet there is ſome parts concealed,</l>
+               <l>which my fancy judgeth beſt.</l>
+            </lg>
+            <lg n="27">
+               <pb facs="tcp:184505:9"/>
+               <head>27. A young man to his Sweet-heart, ſetting forth the better eff<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cts of a diſ<g ref="char:EOLhyphen"/>dained Love.</head>
+               <l>Love is like a golden trée,</l>
+               <l>Whoſe fruit moſt pleaſant ſéems to be.</l>
+               <l>Whiles diſdain doth never ſléep,</l>
+               <l>But this trée of Love doth kéep:</l>
+               <l>Yet I hope you will at laſt</l>
+               <l>Think upon my ſervice paſt.</l>
+            </lg>
+            <lg n="28">
+               <head>28. A poſie ſent by a young man to a pretty young maid in the ſame Town, with a very fair point of Coronation colour Ribbon.</head>
+               <l>My deareſt Love, I ſend</l>
+               <l>this Ribbon point to thée,</l>
+               <l>In hope the young men of the Town</l>
+               <l>ſhall not ſtill point at me:</l>
+               <l>Becauſe I am thy Lover true,</l>
+               <l>Then grant me thy Love ſwéet <hi>Sue.</hi>
+               </l>
+            </lg>
+            <lg n="29">
+               <head>29. Another.</head>
+               <l>There is no joy can be</l>
+               <l>to Lovers half ſo ſwéet</l>
+               <l>As when that Lovers do agrée.</l>
+               <l>and in one point do méet.</l>
+            </lg>
+            <lg n="93">
+               <pb facs="tcp:184505:10"/>
+               <head>93. the poſie of a Ring.</head>
+               <l>Thou art, my heart.</l>
+            </lg>
+            <lg n="1">
+               <head>1.</head>
+               <l>More dearer to me, then life can be,</l>
+            </lg>
+            <lg n="32">
+               <head>32. Another.</head>
+               <l>Love is joy, without annoy,</l>
+            </lg>
+            <lg n="33">
+               <head>33. Another.</head>
+               <l>Tis in your will, to ſave or kill.</l>
+            </lg>
+            <lg n="34">
+               <head>34. A Poſie wrought in Red Silk Letters upon an Aſh coloured Scarf.</head>
+               <l>Every Letter here doth ſhew,</l>
+               <l>That my heart is link't to you;</l>
+               <l>And by this Token is expreſt</l>
+               <l>That you are ſhe whom I love beſt.</l>
+            </lg>
+            <lg n="35">
+               <head>35. A Batchelors Poſie ſent with a fair pair of Gloves to a young Maid, with whom he was to be married on the next Holy-day following. <hi>Dulce bellum in expertis.</hi>
+               </head>
+               <l>Thou art a Maid my deareſt <hi>Nan,</hi>
+               </l>
+               <l>And I a Batchelor too am;</l>
+               <l>Then néeds muſt <hi>Venus</hi> wars be ſwéet</l>
+               <l>When two maiden-Lovers méet</l>
+            </lg>
+            <lg n="36">
+               <head>36. The Poſie of a Handkercher very fairly, laced about, with a flaiming heart wrought in the middle.</head>
+               <l>Great is the greif that <hi>I</hi> ſuſtain:</l>
+               <l>Which here is figured, by a fleme:</l>
+               <pb facs="tcp:184505:10"/>
+               <l>That doth torment me in each part,</l>
+               <l>But chiefly ſeizeth on my heart;</l>
+               <l>Yet rather then my heart ſhall turn,</l>
+               <l>From my Faith, in love I'le burn.</l>
+            </lg>
+            <lg>
+               <head>From a Young-man, to his off<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nded Miſtreſs.</head>
+               <l>Deareſt, if <hi>I</hi> have offended,</l>
+               <l>enjoyn me then ſome pennance hard,</l>
+               <l>That my fault may be amended,</l>
+               <l>ere your favour be debard;</l>
+               <l>For if <hi>I</hi> muſt pennance do,</l>
+               <l>I'le go unto no Saint but you.</l>
+            </lg>
+            <lg n="37">
+               <head>37. A poſie ſent to a Maid, being cunningly enter<g ref="char:EOLhyphen"/>woven in a Silk Bracelet.</head>
+               <l>Kindly take this Gift of mine,</l>
+               <l>For Gift and Giver both are thine.</l>
+            </lg>
+            <lg n="38">
+               <head>38. A poſie written in a piece of guilt paper, folded up very neatly like a Letter, and bound about with green Silk, and ſo ſent to a Maid that had the Green-Sickneſs.</head>
+               <l>Like to this Silk that is ſo Gréen,</l>
+               <l>So doth the fading colour ſéem:</l>
+               <l>A Letter changed in thy Name,</l>
+               <l>Will bring your colour back again.</l>
+               <l>Change N. for M. my gréen chéeckt <hi>Nan,</hi>
+               </l>
+               <l>For <hi>I</hi> do ſée you lack a Man.</l>
+            </lg>
+            <lg n="40">
+               <pb facs="tcp:184505:11"/>
+               <head>40. Poſies for Rings.</head>
+               <l>Faithful Love, can ne're remove.</l>
+            </lg>
+            <lg n="41">
+               <head>41. Another.</head>
+               <l>If you conſent <hi>I</hi> am content.</l>
+            </lg>
+            <lg n="42">
+               <head>42. To a maid, Engraven on each ſide of a Silver Bodkin.</head>
+               <l>Like unto a Bodkin ſo is love,</l>
+               <l>Sharp, untill the ſwéet we prove.</l>
+            </lg>
+            <lg n="43">
+               <head>43. To his Sweet-heart that had objected againſt him for want of means.</head>
+               <l>Come my Love if Love you grant,</l>
+               <l>What is it that Love can want;</l>
+               <l>In thée <hi>I</hi> have ſufficient ſtore,</l>
+               <l>Grant me thy Love, I wiſh no more.</l>
+            </lg>
+            <lg>
+               <head>A poſie ſent from a maid to a young man wiih a very fair wrought purſe.</head>
+               <l>My Hearts Purſe</l>
+               <l>you are my wealth;</l>
+               <l>And <hi>I</hi> will kéep</l>
+               <l>you to my ſelf.</l>
+            </lg>
+            <lg n="44">
+               <head>44. The poſie of a Ring.</head>
+               <l>True Love well plac'd, is ne're diſgrac'd.</l>
+            </lg>
+            <lg n="45">
+               <head>45.</head>
+               <l>I am your friend, unto the end.</l>
+            </lg>
+            <lg n="46">
+               <pb facs="tcp:184505:11"/>
+               <head>46.</head>
+               <l>Yours <hi>I</hi> am, be mine again.</l>
+            </lg>
+            <lg n="47">
+               <head>47.</head>
+               <l>Love it ſelf diſcloſes, by gifts with Poſies</l>
+            </lg>
+            <lg n="48">
+               <head>48. A Poſie ſent with a pair of Gloves.</head>
+               <l>What ſhould <hi>I</hi> write? ſome words do move</l>
+               <l>Suſpition unto thoſe that Love;</l>
+               <l>Then without any further art,</l>
+               <l>In one word you have my heart.</l>
+            </lg>
+            <lg n="49">
+               <head>49. Her Reply.</head>
+               <l>Leſt for a heart you ſhould complain,</l>
+               <l>With mine I ſend yours back again:</l>
+               <l>For Love to me this power doth give,</l>
+               <l>That my heart in your heart doth live.</l>
+            </lg>
+            <lg n="50">
+               <head>50. A young Mans poſie wrought in a Handkercher.</head>
+               <l>A Maiden vertuous chaſte and fair,</l>
+               <l>Is a Iewel paſt compare,</l>
+               <l>And ſuch are you in whom <hi>I</hi> find,</l>
+               <l>Vertue is with beauty Ioyn'd.</l>
+            </lg>
+            <lg n="51">
+               <head>51. A Maidens poſie ſent with a willow colour point to a young man that had forſa<g ref="char:EOLhyphen"/>ken her.</head>
+               <l>Your love was like a ſpark,</l>
+               <pb facs="tcp:184505:12"/>
+               <l>which in the Aſhes lies;</l>
+               <l>That ſhineth for a time,</l>
+               <l>but afterwards it dies:</l>
+               <l>Since therefore you did faithleſs prove,</l>
+               <l>
+                  <hi>I</hi> do here denounce your love.</l>
+            </lg>
+            <lg n="52">
+               <head>52. poſies for Rings.</head>
+               <l>Be true to me,</l>
+               <l>As <hi>I</hi> to thée.</l>
+               <l>
+                  <hi>I</hi> love none,</l>
+               <l>But thée alone.</l>
+            </lg>
+            <lg>
+               <head>To his Sweet-heart, to whom he ſent a purſe with theſe Verſes in it.</head>
+               <l>Swéet-heart my love to you <hi>I</hi> commend,</l>
+               <l>And therewithal this Purſe to you <hi>I</hi> ſend,</l>
+               <l>Which is not fil'd with ſilver or with gold,</l>
+               <l>Only my heart it doth contain and hold.</l>
+               <l>
+                  <hi>I</hi> do rejoyce,</l>
+               <l>In thée my choice.</l>
+               <l>One love, one troth,</l>
+               <l>Betwéen us both.</l>
+               <l>Conſtant true Love,</l>
+               <l>Comes from above.</l>
+               <l>You are my friend,</l>
+               <l>Vnto the end.</l>
+            </lg>
+            <lg>
+               <head>To a Maid, theſe Lines were ſent, with a Scarf.</head>
+               <l>This Scarf will kéep off the rude wind,</l>
+               <pb facs="tcp:184505:12"/>
+               <l>Which to your Lips the way would find,</l>
+               <l>I would have none know the bliſs,</l>
+               <l>(But my ſelf) at your ſwéet kiſs,</l>
+               <l>Which I would hav<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> none elſe to taſte,</l>
+               <l>Leſt your ſtock of kiſſes waſte,</l>
+            </lg>
+            <lg>
+               <head>Verſes written on a Gentle-womans Lute; and left in her Chamber.</head>
+               <l>Lute I intreat thée to complain,</l>
+               <l>To her that doth my love diſdain:</l>
+               <l>And when thy Miſtreſs cometh home,</l>
+               <l>Tell her here hath béen one,</l>
+               <l>Would (if ſhe had not thought it much)</l>
+               <l>Have given her a gentle touch.</l>
+            </lg>
+            <lg>
+               <head>On a Knife.</head>
+               <l>If you love me, as <hi>I</hi> love you,</l>
+               <l>Nothing can cut our love in two.</l>
+            </lg>
+            <lg>
+               <head>To a Gentlewoman, who appointed one to buy her a Mask, which he bought, and ſent it with this Poſie.</head>
+               <l>It is a pitty you ſhould wear a Mask,</l>
+               <l>This is the reaſon if you do ask,</l>
+               <l>Becauſe it hides your face ſo fair,</l>
+               <l>Where Roſes mixt with Lillies are;</l>
+               <l>It clouds your beauty; ſo that we</l>
+               <l>Your Cherry Lips can ſeldom ſée,</l>
+               <l>And from your face, kéeps off our eyes;</l>
+               <l>Which is indéed loves Paradice.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:184505:13"/>
+               <head>Verſes ſent with a pair of Bracelets.</head>
+               <l>Theſe Bracelets like a circle ſhall</l>
+               <l>environ round your Arm,</l>
+               <l>Happy are they what ere befal,</l>
+               <l>that ſhall be kept warm:</l>
+               <l>And may they like two circles prove</l>
+               <l>to charm your heart for to love me,</l>
+               <l>Let <hi>Cupid</hi> the Magician be,</l>
+               <l>to charm your heart for to love me.</l>
+            </lg>
+            <lg>
+               <head>Poſies for Rings.</head>
+               <l>I will remain,</l>
+               <l>Always the ſame.</l>
+               <l>You and <hi>I,</hi>
+               </l>
+               <l>Will Lovers die</l>
+               <l>My vow is paſt,</l>
+               <l>While life doth laſt,</l>
+               <l>Lovers knot once tide,</l>
+               <l>Who can divide?</l>
+               <l>
+                  <hi>Verbum ſat amanti.</hi>
+               </l>
+               <l>
+                  <hi>Amo te,</hi>
+               </l>
+               <l>
+                  <hi>Si amas me.</hi>
+               </l>
+               <l>I love thée,</l>
+               <l>If thou love me.</l>
+               <l>
+                  <hi>To a fair Maid, ſent with a poſie of Flowers.</hi>
+               </l>
+               <l>Beauty is like a flower, ſwéet Maid,</l>
+               <l>Which quickly doth decay and fade;</l>
+               <l>Then wiſely now make uſe of time,</l>
+               <l>Since you are now even in your prime.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:184505:13"/>
+               <head>Two lines embroidered on the top of a pair of Gloves.</head>
+               <l>
+                  <hi>I</hi> wiſh that we two were a pair,</l>
+               <l>As theſe happy Gloves here are.</l>
+            </lg>
+            <lg>
+               <head>Nick a Farmers ſon ſendeth to <hi>Joan Hobſon</hi> a yard of blew Ribbond with theſe Lines.</head>
+               <l>
+                  <hi>I</hi> ſend you here of Ribbond a whole yard,</l>
+               <l>And money goeth with me very hard,</l>
+               <l>For elſe this yard two yards ſhould be,</l>
+               <l>Since <hi>I</hi> do hold nothing too dear for thée?</l>
+               <l>And part therefore my love if y<hi rend="sup">t</hi> thou wilt,</l>
+               <l>In this ſame Ribbon which is made of ſilk.</l>
+            </lg>
+            <lg>
+               <head>A poſie wrought upon a Handkercher in ſilk Letters.</head>
+               <l>Do not too lightly of me think,</l>
+               <l>Who write in Letters ſtead of Ink,</l>
+               <l>To ſend this token <hi>I</hi> made ſhift,</l>
+               <l>Eſtéem the giver, and not the gift.</l>
+            </lg>
+            <lg>
+               <head>A poſie on a Thimble.</head>
+               <l>He that ſent me,</l>
+               <l>Loveth thée.</l>
+            </lg>
+            <lg>
+               <head>A Cabinet being ſent to a Gentle-Woman, theſe Verſes were put in one of the Drawers.</head>
+               <l>This little Cabinet will conceal,</l>
+               <l>All things which you would not reveal.</l>
+               <l>Your Letters and your other things,</l>
+               <l>As your Iewels and your Rings.</l>
+               <pb facs="tcp:184505:14"/>
+               <l>Let me know then in what part,</l>
+               <l>Or box, you will lay up my heart.</l>
+               <l>Which with it <hi>I</hi> do ſend and pray,</l>
+               <l>That in your heart you would it lay;</l>
+               <l>Let me ſuch favour from you get,</l>
+               <l>Make your heart my hearts Cabinet.</l>
+            </lg>
+            <lg>
+               <head>To a Maid, a young Man ſendeth a ſilk Girdle.</head>
+               <l>This girdle haply ſhall be plac'd.</l>
+               <l>To compaſs round your neat ſmall waſte,</l>
+               <l>I were happy if in this place,</l>
+               <l>
+                  <hi>I</hi> might thy ſlender waſte imbrace.</l>
+            </lg>
+            <lg>
+               <head>A poſie of four lines written in red Letters, on the four ſides of an Handkercher.</head>
+               <l>Things of moſt conſtancy ſtill are,</l>
+               <l>Reſembled to ſolid ſquare:</l>
+               <l>So my triangular heart ſhall be,</l>
+               <l>A four ſquare figure of conſtancy.</l>
+            </lg>
+            <lg>
+               <head>Poſies for Rings.</head>
+               <l>Be thou mine,</l>
+               <l>As <hi>I</hi> am thine.</l>
+               <l>In weal and woe,</l>
+               <l>My love I'le ſhow.</l>
+               <l>
+                  <hi>I</hi> will be true,</l>
+               <l>Always to you.</l>
+               <l>There is no joy,</l>
+               <l>Like love without annoy.</l>
+               <l>Love croſt, is beſt,</l>
+               <pb facs="tcp:184505:14"/>
+               <l>And proſper beſt.</l>
+               <l>Ioy doth abound,</l>
+               <l>Where love is found.</l>
+               <l>My Vow that's paſt,</l>
+               <l>Till death ſhall laſt.</l>
+               <l>
+                  <hi>I</hi> lode none,</l>
+               <l>But you alone.</l>
+               <l>To thée my heart <hi>I</hi> give,</l>
+               <l>Whileſt <hi>I</hi> here do live.</l>
+               <l>Love joyneth hands,</l>
+               <l>In wedlock bands.</l>
+            </lg>
+            <lg>
+               <head>A Poſie Engraven about a Jewel, ſent to a Gentle-Woman.</head>
+               <l>There is no Iewel <hi>I</hi> can ſée,</l>
+               <l>Like love that's ſent in conſtancy.</l>
+            </lg>
+            <lg>
+               <head>The Concluſion.</head>
+               <l>
+                  <hi>Cupids</hi> Poſies now at laſt are done,</l>
+               <l>For if you read them all, you will like ſome</l>
+               <l>For theſe new Poſies are both ſwéet &amp; brief</l>
+               <l>And will diſcloſe the ſighing Lovers grief;</l>
+               <l>For <hi>Cupid</hi> having too much idle leaſure,</l>
+               <l>Compoſ'd theſe Poſies for his pleaſure.</l>
+            </lg>
+            <lg n="52">
+               <head>52. A Poſie to an unkind diſdainful Maid.</head>
+               <l>Each frown of yours is like a Dart,</l>
+               <l>That woundeth me unto the heart.</l>
+               <pb facs="tcp:184505:15"/>
+               <l>What conqueſt were it, if that <hi>I</hi>
+               </l>
+               <l>By your cruel frown ſhould die:</l>
+               <l>Since love my only treſpaſs is,</l>
+               <l>And ſhall <hi>I</hi> die alaſs for this.</l>
+            </lg>
+            <lg>
+               <head>Her Reply.</head>
+               <l>If alaſs, for love you chance to die,</l>
+               <l>'Tis your own folly kills your heart not <hi>I.</hi>
+               </l>
+            </lg>
+            <lg n="53">
+               <head>53. To a young Maid about fifteen years of Age.</head>
+               <l>Fiftéen Years you now have ſtaid,</l>
+               <l>Fie, tis too long to be a Maid.</l>
+            </lg>
+            <lg n="54">
+               <head>54. A poſie engraven on a Gold Ring.</head>
+               <l>By this Ring of Gold,</l>
+               <l>Take me to have and hold.</l>
+            </lg>
+            <lg n="55">
+               <head>55. Another.</head>
+               <l>What joy in life,</l>
+               <l>To a good wife;</l>
+            </lg>
+            <lg>
+               <head>A poſie embroidered on a Scarf.</head>
+               <l>Faireſt wear this ſcarf that <hi>I</hi> do ſend</l>
+               <l>That may our Beauty from the wind defend,</l>
+               <l>For <hi>I</hi> do know the winds if like to me,</l>
+               <l>To kiſs your lips and chéeks deſirous be.</l>
+            </lg>
+            <lg>
+               <head>On the choice of a Wife.</head>
+               <l>If thou intend'ſt to chuſe a wife,</l>
+               <l>With whom to lead a happy life:</l>
+               <l>Look not for beauty ſince there are,</l>
+               <l>Few that can be chaſte and fair:</l>
+               <pb facs="tcp:184505:15"/>
+               <l>But if thou do her vertues find,</l>
+               <l>Which is the beauty of the mind:</l>
+               <l>Woe her then to gain conſent,</l>
+               <l>For vertuous Love can ne're repent.</l>
+            </lg>
+            <lg>
+               <head>
+                  <hi>Cupids</hi> Concluſion.</head>
+               <l>Fair Maids my poſies now are done,</l>
+               <l>Which for yours ſakes I firſt begun,</l>
+               <l>And young men here may alwayes chuſe,</l>
+               <l>Such poſies as they mean to uſe:</l>
+               <l>I <hi>Cupid</hi> writ them on a day.</l>
+               <l>When <hi>Venus</hi> gave me leave to play:</l>
+               <l>And if you like them for my pain,</l>
+               <l>Then <hi>Cupid</hi> means to write again.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="illustration">
+            <pb facs="tcp:184505:16"/>
+            <p>
+               <figure>
+                  <figDesc>Cupid prepares to fire an arrow in a field of ladies and gentlemen with a city in the background</figDesc>
+               </figure>
+            </p>
+            <pb facs="tcp:184505:16"/>
+         </div>
+      </back>
+   </text>
+</TEI>
